@@ -7,6 +7,8 @@ body {
     background-image: url(images/perkament.jpg);
     background-position: center;
     background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
  
 }
 
@@ -25,10 +27,11 @@ p {
 
 
 .container {
-   background-color: #ffffff48;
-    width: 80%;
+   background-color: #feffdb7e;
+    width: 50%;
     margin-left: auto;
     margin-right: auto;
+    text-align: center;
 
 }
 
@@ -62,7 +65,8 @@ color: #850001;
   font-weight: 400;
   font-style: normal;
   text-decoration: underline;
-
+ text-underline-offset: 15px;
+  text-decoration-thickness: 1px;
 }
 
 .begin-letter {
