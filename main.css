@@ -9,20 +9,43 @@ body {
     background-size: cover;
 
  
-    
+ 
 }
+
+p {
+ font-family: "Arima", system-ui;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  color:  #4f5448;
+
+}
+
 .container {
    background-color: #ffffff48;
     width: 80%;
     margin-left: auto;
     margin-right: auto;
+
 }
+
+.haas {
+    color: #a96657;
+font-weight: 300;
+
+}
+.schildpad { 
+
+
+}
+
 
 h1 {
 color: #850001;
   font-family: "Cinzel Decorative", serif;
   font-weight: 400;
   font-style: normal;
+  text-decoration: underline;
 
 }
 
