@@ -65,3 +65,10 @@ color: #850001;
 
 }
 
+.begin-letter {
+    color: #850001;
+  font-family: "Cinzel Decorative", serif;
+  font-weight: 400;
+  font-style: normal;
+    font-size: 300% 
+}
